@@ -4,16 +4,25 @@
     {
       "channelIds": ["767339363545120769"],
       "sendPolicy": "all",
-      "cronExpression": "00 45 21 * * *",
+      "cronExpression": "00 00 22 * * *",
       "content": "",
-      "color": "#00FF00",
       "embeds":
       [
         {
+          "color": 3447003,
           "author": 
           {
             "name": "🤖Bot-Status🤖: Online"
-          }  
+          } 
+        },
+        {
+          "fields": 
+          [
+            {
+              "name":""
+            }
+          ],
+          "timestamp": "true"
         }
       ]
     }
