@@ -4,7 +4,7 @@
     {
       "channelIds": ["767339363545120769"],
       "sendPolicy": "all",
-      "cronExpression": "* 40 21 * * *",
+      "cronExpression": "00 45 21 * * *",
       "content": "",
       "color": "#00FF00",
       "embeds":
@@ -12,7 +12,7 @@
         {
           "author": 
           {
-            "name": "🤖Bot-Status🤖:  “`yaml Online“`"
+            "name": "🤖Bot-Status🤖: Online"
           }  
         }
       ]
