@@ -8,5 +8,4 @@ require("./core/loadWidgetListeners")(client);
 client.login(token).catch((error) => {
   console.error(error);
   process.exit(1);
-  .listen(process.env.PORT || 3000);
 });
