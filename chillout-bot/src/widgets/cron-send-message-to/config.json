@@ -2,7 +2,7 @@
   "timezone": "Europe/Berlin",
   "rules": [
     {
-      "channelIds": ["767339363545120769"],
+      "channelIds": ["772936144680779786"],
       "sendPolicy": "all",
       "cronExpression": "00 00 21 * * *",
       "content": "",
