@@ -4,7 +4,7 @@
     {
       "channelIds": ["767339363545120769"],
       "sendPolicy": "all",
-      "cronExpression": "00 00 22 * * *",
+      "cronExpression": "00 01 22 * * *",
       "content": "",
       "embeds":
       [
@@ -13,16 +13,7 @@
           "author": 
           {
             "name": "🤖Bot-Status🤖: Online"
-          } 
-        },
-        {
-          "fields": 
-          [
-            {
-              "name":""
-            }
-          ],
-          "timestamp": "true"
+          }
         }
       ]
     }
