@@ -4,7 +4,7 @@
     {
       "channelIds": ["767339363545120769"],
       "sendPolicy": "all",
-      "cronExpression": "00 18 22 * * *",
+      "cronExpression": "00 00 21 * * *",
       "content": "",
       "embeds":
       [
