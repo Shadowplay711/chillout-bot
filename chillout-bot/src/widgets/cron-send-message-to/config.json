@@ -2,39 +2,18 @@
   "timezone": "Europe/Berlin",
   "rules": [
     {
-      "channelIds": [""],
+      "channelIds": ["767339363545120769"],
       "sendPolicy": "all",
-      "cronExpression": "* * * * * *",
+      "cronExpression": "* 40 21 * * *",
       "content": "",
+      "color": "#00FF00",
       "embeds":
       [
         {
           "author": 
           {
-            "name": "Rollen-Auswahl",
-            "icon_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f50409ef-2588-4bb1-b078-8a155b1b933f/de71y0d-a9b90533-a8b6-4bcf-a81d-9a853d4eb492.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjUwNDA5ZWYtMjU4OC00YmIxLWIwNzgtOGExNTViMWI5MzNmXC9kZTcxeTBkLWE5YjkwNTMzLWE4YjYtNGJjZi1hODFkLTlhODUzZDRlYjQ5Mi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.U2kMIwExYuTm9EjzpgmlK3W9E21JbpbeEpmU4i_Iwko"
-          },
-          "description": 
-          "Reagiert mit den Entsprechenden Emojis um die gewünschte Rolle zu erhalten.",
-          "fields": 
-          [
-            {
-              "name": "Anime:",
-              "value": "📺"
-            },
-            { 
-              "name": "Gaming:", 
-              "value": "🎮" 
-            },
-            {
-              "name": "Music:",
-              "value": "🎵"
-            },
-            {
-              "name": "Spielhalle:",
-              "value": "🃏"
-            }
-          ]
+            "name": "🤖Bot-Status🤖:  “`yaml Online“`"
+          }  
         }
       ]
     }
